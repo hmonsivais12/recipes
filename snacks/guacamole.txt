@@ -15,4 +15,5 @@ Instructions:
 6. mix everything together
 
 Optional:
--add tomatoes and jalapeños
+-tomatoes
+-jalapeños
