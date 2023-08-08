@@ -4,13 +4,15 @@ Ingredients:
 -cilantro
 -salt
 -lime
+-garlic
 
 Instructions:
 1. mash avocados
 2. chop onions
 3. chop cilantro
 4. squeeze limes
-5. mix everything together
+5. mince garlic
+6. mix everything together
 
 Optional:
 -add tomatoes and jalapeños
